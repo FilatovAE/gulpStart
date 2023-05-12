@@ -1,0 +1,7 @@
+{
+  "exclude": [
+    "public",
+    "vendor",
+    "node_modules"
+  ]
+}
